@@ -189,7 +189,7 @@ Much of marketing is staying consistent over time. While you need to know that a
   - [ ] Turn posts into a podcast.
   - [ ] Create an infographic based on the post.
   - [ ] Create a presentation of your post.
-- [ ] Promote your blog content (see [this big checklist for more promotional ideas](https://draft.dev/learn/promotion):
+- [ ] Promote your blog content (see [this big checklist for more promotional ideas](https://www.dewoweb.com):
   - [ ] Send post to your email list.
   - [ ] Promote on your social media.
   - [ ] Email friends and relatives, ask them to share if relevant.
