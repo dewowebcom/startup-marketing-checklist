@@ -150,6 +150,7 @@ Once you launch, the real fun begins! Whether you go out with a bang or you grad
   - [ ] Get interviewed on podcasts
   - [ ] Become a source on [Help a Reporter Out](https://www.helpareporter.com/)
   - [ ] [More strategies on Backlinko.com](http://backlinko.com/link-building)
+  - [ ] [More strategies for persian languige on dewoweb.com](http://backlinko.com/link-building)
 
 ### Paid Promotional Channels
 
